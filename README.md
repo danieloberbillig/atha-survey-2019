@@ -1,6 +1,8 @@
 # ATHA Survey 2019 - Qlik Sense Dashboard
 
+
 ## Getting started
+* Watch the introduction video on youtube: 
 
 * Download Qlik Sense Desktop for free: https://www.qlik.com/us/try-or-buy/download-qlik-sense
 
@@ -9,8 +11,9 @@
 
 * Open Qlik Sense
 
-* drag&drop the dashboard application ATHA Survey 2019.qvf onto the Qlik Sense Dekstop Hub
+* Drag & drop the dashboard application `ATHA Survey 2019.qvf` onto the Qlik Sense Dekstop Hub
 
-* Watch my introduction video on youtube: 
 
-* 
+* Enjoy qliking :)
+
+![Image of Yaktocat](asset/img/logo_black.png)
